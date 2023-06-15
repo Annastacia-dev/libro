@@ -1,25 +1,17 @@
-# README
+# Libro
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Book Club App
 
-Things you may want to cover:
+## Ruby
 
-* Ruby version
+* Ruby version - 3.1.2
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation - `rails db:create`
 
-* Database initialization
-
-* How to run the test suite
+* Database initialization = `rails db:migrate db:seed`
 
 * Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# libro
