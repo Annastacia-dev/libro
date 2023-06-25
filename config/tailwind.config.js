@@ -6,7 +6,15 @@ module.exports = {
     './app/views/**/*',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#e47070',
+      },
+      fontFamily: {
+        'bagel': ['Bagel Fat One', 'cursive'],
+        'balsamiq': ['Balsamiq Sans', 'cursive'],
+      },
+    },
   },
   plugins: [],
 }
